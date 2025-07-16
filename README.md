@@ -17,7 +17,7 @@
 
 ## 🤓 Minha Jornada (Até Agora)
 
-<p align="center">
+<p align="jusify">
   Sou um desenvolvedor iniciante com uma história curiosa. Minha aventura no mundo da programação começou com a criação de jogos no <b>TIC-80</b> e <b>LÖVE 2D</b>, onde <b>Lua</b> se tornou minha primeira (e querida) linguagem de programação.
 <br>
   Um dia, a curiosidade me levou a mexer num arquivo <code>.html</code> aleatório que baixei e... bem, aqui estou, navegando pelo universo do desenvolvimento web e adorando cada descoberta!
