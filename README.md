@@ -7,7 +7,7 @@
 <div align="center">
 
   <!-- O banner pixelado que você escolheu. Perfeito para a vibe! -->
-  <img src="https://i.pinimg.com/originals/fd/52/14/fd521441005da83e481974ad55ed8e06.gif" alt="Banner pixel art de uma cidade à noite"/>
+  <img style="border-radius: 10px;" src="https://i.pinimg.com/originals/fd/52/14/fd521441005da83e481974ad55ed8e06.gif" alt="Banner pixel art de uma cidade à noite"/>
 
   <h1>
     Olá, Mundo! Eu sou o Luis Fernando! 👋
