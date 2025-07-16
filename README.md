@@ -93,7 +93,6 @@ Esta é a parte onde a mágica (e a bagunça) realmente acontece.
 
 ### 🤯 SVG Animado com CSS Interno 🤯
 
-<div align="center">
   <!-- 
     Isso é um SVG. O CSS está DENTRO do SVG. 
     O GitHub permite isso, então podemos ter gradientes animados, texto pulsante, etc.
@@ -139,7 +138,7 @@ Esta é a parte onde a mágica (e a bagunça) realmente acontece.
       ✨ CSS + SVG = MÁGICA ✨
     </text>
   </svg>
-</div>
+
 
 <br>
 
