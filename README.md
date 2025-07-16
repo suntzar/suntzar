@@ -1,49 +1,27 @@
 <!-- 
   Perfil de Luis Fernando (suntzar)
-  Versão 3.0: Focada na história e com um visual matador para as tecnologias.
+  Versão 4.0: O melhor dos dois mundos. Sua história com um visual dinâmico.
 -->
 
-<div align="center">
+<!-- CABEÇALHO ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6A5ACD§ion=header"/>
 
-  <!-- Banner animado para dar aquele toque especial -->
-  <img src="https://i.pinimg.com/originals/fd/52/14/fd521441005da83e481974ad55ed8e06.gif" alt="Banner animado de um quarto gamer em pixel art"/>
-
-  <h1>
-    Olá, Mundo! Eu sou o Luis Fernando! 👋
-  </h1>
-
-  <p>
-    <b>Um explorador de código que começou nos jogos e tropeçou na web por acidente.</b>
-  </p>
-  
-  <!-- Lembre-se de atualizar seus links aqui! -->
-  <p>
-    <a href="https://www.linkedin.com/in/[SEU_LINKEDIN]/" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="mailto:[SEU_EMAIL@exemplo.com]">
-      <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-  </p>
+<!-- TEXTO DE INTRODUÇÃO ANIMADO -->
+<div align="center" width="100%">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=6A5ACD&width=600&size=30¢er=true&lines=Olá!+Meu+nome+é+Luis+Fernando+(suntzar);Comecei+nos+jogos+com+a+linguagem+Lua...;...e+por+acidente,+virei+dev+web.;Seja+bem-vindo(a)+ao+meu+GitHub!+✨" alt="Typing SVG"/></a>
 </div>
+
+<br>
 
 ---
 
 ## 🤓 Minha Jornada (Até Agora)
 
-<p>
+<p align="center">
   Sou um desenvolvedor iniciante com uma história curiosa. Minha aventura no mundo da programação começou com a criação de jogos no <b>TIC-80</b> e <b>LÖVE 2D</b>, onde <b>Lua</b> se tornou minha primeira (e querida) linguagem de programação.
-</p>
-<p>
+<br>
   Um dia, a curiosidade me levou a mexer num arquivo <code>.html</code> aleatório que baixei e... bem, aqui estou, navegando pelo universo do desenvolvimento web e adorando cada descoberta!
 </p>
-
-- 🔭 Atualmente, estou consolidando meus conhecimentos em **HTML, CSS e JavaScript**.
-- 🌱 Estou aprendendo a dar meus primeiros passos no backend com **Node.js**.
-- 👯 Procuro colaborar em **projetos web criativos ou pequenos jogos indie**.
-- 💬 Me chame para falar sobre **código, pixel art, a simplicidade de Lua ou os mistérios do CSS**.
-
-<br>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -51,22 +29,65 @@
   Estas são as ferramentas que eu tenho explorado e utilizado na minha jornada até agora:
 </p>
 
-<!-- 
-  Ícones de skillicons.dev 
-  O parâmetro 'i' define os ícones (lua, js, py, etc.)
-  O parâmetro 'perline' define quantos ícones por linha para um layout mais limpo.
--->
+<!-- Ícones de skillicons.dev -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=lua,js,py,html,css,nodejs,git,vscode&perline=4" />
   </a>
 </p>
 
----
+<br>
 
+## 📊 Minhas Estatísticas
+
+<!-- 
+  Cards de estatísticas inspirados no exemplo. 
+  Eles usam seu username 'suntzar' e um tema que combina com o resto do perfil.
+-->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=suntzar&label=VISITANTES_DO_PERFIL&color=blueviolet&style=flat-square" alt="Contador de Visitas" />
-  <p>
-    <em>Feito com ☕, ⌨️ e uma pitada de "ué, funcionou?".</em>
-  </p>
+  <table>
+    <tr>
+      <td>![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suntzar&theme=dracula)</td>
+      <td>![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suntzar&theme=dracula)</td>
+    </tr>
+    <tr>
+      <td>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suntzar&theme=dracula)</td>
+      <td>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suntzar&theme=dracula&hide_border=true)](https://git.io/streak-stats)</td>
+    </tr>
+  </table>
 </div>
+
+<br>
+
+## 🌐 Conecte-se Comigo
+
+<!-- Seção de redes sociais mais proeminente -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/[SEU_LINKEDIN]/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:[SEU_EMAIL@exemplo.com]">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- Adicione outras redes se quiser! -->
+  <!-- 
+  <a href="[LINK_TWITCH]" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  -->
+</div>
+
+<br>
+
+<!-- RODAPÉ -->
+<div align="center">
+  <samp>
+    ♡ <a href="[LINK_PORTFOLIO]">portfólio</a> ⊹
+    <a href="[LINK_BLOG_OU_NOTION]">blog</a> ⊹
+    <a href="[OUTRO_LINK]">outro link</a> ♡
+  </samp>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=suntzar&label=VISITANTES&color=6A5ACD&style=flat-square" alt="Contador de Visitas" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6A5ACD§ion=footer"/>
