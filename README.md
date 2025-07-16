@@ -1,11 +1,11 @@
 <!-- 
   Perfil de Luis Fernando (suntzar)
-  Versão personalizada com uma história 100% real e um amor especial por Lua.
+  Versão 3.0: Focada na história e com um visual matador para as tecnologias.
 -->
 
 <div align="center">
 
-  <!-- O banner que você escolheu. Perfeito para a vibe! -->
+  <!-- Banner animado para dar aquele toque especial -->
   <img src="https://i.pinimg.com/originals/fd/52/14/fd521441005da83e481974ad55ed8e06.gif" alt="Banner animado de um quarto gamer em pixel art"/>
 
   <h1>
@@ -45,98 +45,22 @@
 
 <br>
 
-## 🔧 Minha Estante de Ferramentas
-
-<p>Estas são as tecnologias que já fazem parte da minha jornada e com as quais eu me divirto construindo coisas:</p>
-
-<table width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <p><b>Linguagens</b></p>
-      <img style="margin: 5px" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-      <img style="margin: 5px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img style="margin: 5px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </td>
-    <td align="center" width="25%">
-      <p><b>Desenvolvimento Web</b></p>
-      <img style="margin: 5px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img style="margin: 5px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img style="margin: 5px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    </td>
-    <td align="center" width="25%">
-      <p><b>Game Dev</b></p>
-      <img style="margin: 5px" src="https://img.shields.io/badge/LÖVE-00A250?style=for-the-badge&logo=love&logoColor=white" alt="LÖVE 2D" />
-      <img style="margin: 5px" src="https://img.shields.io/badge/TIC--80-A53A3A?style=for-the-badge&logo=pico-8&logoColor=white" alt="TIC-80" />
-    </td>
-     <td align="center" width="25%">
-      <p><b>Ferramentas</b></p>
-      <img style="margin: 5px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img style="margin: 5px" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 📊 Minhas Estatísticas no GitHub
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <i>Números que provam que eu passo mais tempo "commitando" do que escolhendo o que assistir na Netflix.</i>
+  Estas são as ferramentas que eu tenho explorado e utilizado na minha jornada até agora:
 </p>
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=suntzar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suntzar&layout=compact&langs_count=8&theme=dracula"/>
-</div>
-
-<br>
-
-## 🚀 Meus Projetos de Estimação
-
 <!-- 
-  Este é o espaço para mostrar seus trabalhos! 
-  Ex: Seu primeiro jogo em Lua, seu primeiro site, etc.
-  Troque os placeholders pelos links e imagens dos seus projetos.
+  Ícones de skillicons.dev 
+  O parâmetro 'i' define os ícones (lua, js, py, etc.)
+  O parâmetro 'perline' define quantos ícones por linha para um layout mais limpo.
 -->
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Nome do seu Projeto Web</h3>
-      <br />
-      <a href="[LINK_DO_SEU_PROJETO_1]" target="_blank">
-        <img src="https://via.placeholder.com/400x225/333/fff?text=Imagem+do+seu+Projeto" alt="Imagem do Projeto 1" width="100%">
-      </a>
-      <br />
-      <p>
-        Uma breve descrição do seu projeto, explicando o que ele faz. Ex: "Meu primeiro site pessoal, construído com HTML e CSS puro para praticar os fundamentos."
-      </p>
-      <p align="center">
-        <a href="[LINK_DO_REPOSITORIO_1]" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
-        </a>
-        <a href="[LINK_DO_DEPLOY_1]" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Online-4c1?style=for-the-badge" alt="Ver Online">
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Nome do seu Jogo em Lua</h3>
-      <br />
-      <a href="[LINK_DO_SEU_PROJETO_2]" target="_blank">
-        <img src="https://via.placeholder.com/400x225/555/fff?text=Imagem+do+seu+Jogo" alt="Imagem do Projeto 2" width="100%">
-      </a>
-      <br />
-      <p>
-        Uma breve descrição do seu jogo. Ex: "Um pequeno jogo de plataforma feito com LÖVE 2D, inspirado nos clássicos dos anos 90."
-      </p>
-      <p align="center">
-        <a href="[LINK_DO_REPOSITORIO_2]" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=lua,js,py,html,css,nodejs,git,vscode&perline=4" />
+  </a>
+</p>
 
 ---
 
