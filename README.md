@@ -1,107 +1,156 @@
 <!-- 
-  Template de Perfil do GitHub - Estiloso e Dinâmico
-  Design: Moderno, com layout em colunas e elementos visuais sutis.
-  Personalize os placeholders para refletir sua identidade!
+  Olá! Este é um template limpo e estiloso para o seu perfil do GitHub.
+  Fique à vontade para adaptar e personalizar.
+  Lembre-se de substituir os placeholders como [SEU_NOME] e [SEU_USUARIO].
 -->
 
 <div align="center">
-  
-  <!-- Banner: Crie um banner personalizado (1280x300px) e substitua o link -->
-  <a href="https://github.com/[SEU_USUARIO]">
-    <img src="https://i.imgur.com/T0p3aXo.png" alt="Banner - Um gradiente abstrato com o logo do GitHub no centro">
-  </a>
-  
-  <br/>
-  
-  <!-- Animação de digitação: https://github.com/DenverCoder1/github-readme-typing-svg -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8A2BE2¢er=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+%5BSEU_NOME%5D;Desenvolvedor+de+Software;Apaixonado+por+tecnologia;Sempre+buscando+aprender+mais" alt="Animação de digitação com meus títulos">
-  </a>
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/[SEU_LINKEDIN]/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:[SEU_EMAIL@exemplo.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://[SEU_PORTFOLIO].com/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+
+  <!-- Você pode criar um banner personalizado em sites como o Canva e colocar o link aqui -->
+  <img src="https://i.imgur.com/VgVR3Rk.png" alt="Banner do Perfil com um gradiente e o logo do GitHub"/>
+
+  <h1>
+    Olá, eu sou o [SEU NOME]! 👋
+  </h1>
+
+  <p>
+    Desenvolvedor de Software | Apaixonado por Tecnologia e Soluções Criativas
   </p>
 
+  <!-- Badges de Contato/Redes Sociais -->
+  <p>
+    <a href="https://www.linkedin.com/in/[SEU_LINKEDIN]/" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:[SEU_EMAIL@exemplo.com]">
+      <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+     <a href="https://[SEU_SITE_OU_PORTFOLIO].com/" target="_blank">
+      <img alt="Portfólio" src="https://img.shields.io/badge/Meu%20Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    </a>
+  </p>
 </div>
 
 ---
 
-<!-- Layout de duas colunas -->
+## 👨‍💻 Sobre Mim
+
+<p>
+  Sou um desenvolvedor de software com experiência em [Sua Área Principal, ex: desenvolvimento web, mobile, data science]. Tenho um grande interesse em criar aplicações eficientes, escaláveis e com uma ótima experiência de usuário.
+</p>
+
+- 🔭 Atualmente estou trabalhando em **[Nome do Projeto ou Tecnologia]**.
+- 🌱 Estou sempre aprendendo sobre **[Tópico de Interesse, ex: Arquitetura de Microserviços, React Native]**.
+- 👯 Procuro colaborar em **projetos open source** que envolvam [Sua Tecnologia Favorita].
+- 💬 Me chame para falar sobre **tecnologia, games, música ou um bom café!**
+
+<br>
+
+## ✨ Tecnologias e Ferramentas
+
+<details>
+  <summary>Clique para ver a lista de tecnologias que eu uso</summary>
+  <br>
+  <table width="100%">
+    <tr>
+      <td align="center" width="180">
+        <p><b>Linguagens</b></p>
+        <img style="margin: 5px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      </td>
+      <td align="center" width="180">
+        <p><b>Frontend</b></p>
+        <img style="margin: 5px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      </td>
+      <td align="center" width="180">
+        <p><b>Backend</b></p>
+        <img style="margin: 5px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      </td>
+      <td align="center" width="180">
+        <p><b>Ferramentas</b></p>
+        <img style="margin: 5px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br>
+
+## 📊 Minhas Estatísticas no GitHub
+
+<!-- 
+  Troque '[SEU_USUARIO]' pelo seu nome de usuário do GitHub.
+  Para os temas, você pode escolher entre: 
+  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+-->
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<br>
+
+## 🚀 Projetos em Destaque
+
+<!-- 
+  Nesta seção, você pode adicionar links para seus melhores projetos.
+  Use o "Pin" do próprio GitHub para fixar repositórios no topo do seu perfil,
+  ou crie cards personalizados aqui. Abaixo um exemplo simples:
+-->
 <table>
   <tr>
-    <td width="65%" valign="top">
-      ### 👨‍💻 **Sobre Mim**
-      <p>
-        Sou um desenvolvedor de software focado em construir soluções robustas e elegantes. Com uma forte paixão por [Sua Área, ex: desenvolvimento web Full-Stack], busco constantemente transformar ideias complexas em realidade digital.
-        <br/><br/>
-        - 🔭 Atualmente imerso no ecossistema **[Tecnologia Principal, ex: React e Node.js]**.
-        <br/>
-        - 🌱 Explorando o mundo de **[Novo Interesse, ex: Inteligência Artificial com Python]**.
-        <br/>
-        - 💬 Aberto para conversas sobre **tecnologia, boas práticas de código e projetos inovadores**.
+    <td width="50%">
+      <h3 align="center">Projeto 1: Nome Incrível</h3>
+      <br />
+      <a href="[LINK_DO_SEU_PROJETO_1]" target="_blank">
+        <img src="[LINK_DA_IMAGEM_DO_PROJETO_1]" alt="Imagem do Projeto 1" width="100%">
+      </a>
+      <br />
+      <p align="center">
+        <a href="[LINK_DO_REPOSITORIO_1]" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
+        </a>
+        <a href="[LINK_DO_DEPLOY_1]" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Online-4c1?style=for-the-badge" alt="Ver Online">
+        </a>
       </p>
-      
-      <br/>
-      
-      ### 🛠️ **Tecnologias e Ferramentas**
       <p>
-        <!-- Use a tag <details> para manter o perfil limpo -->
-        <details>
-          <summary>Minha Stack Completa</summary>
-          <br/>
-          <!-- Use ícones para um visual mais limpo -->
-          <p align="left">
-            <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,postgres,mongodb,docker,git,figma,vscode&perline=7" />
-            </a>
-          </p>
-        </details>
+        Uma breve descrição do seu projeto, explicando o que ele faz e o seu propósito. Destaque as tecnologias principais utilizadas.
       </p>
     </td>
-    <td width="35%" valign="top">
-      
-      ### 📊 **Estatísticas**
-      <!-- 
-        Para os temas, escolha entre: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, etc.
-        Para um visual mais limpo e escuro, `github_dark` é uma ótima opção.
-      -->
+    <td width="50%">
+      <h3 align="center">Projeto 2: Outro Nome Legal</h3>
+      <br />
+      <a href="[LINK_DO_SEU_PROJETO_2]" target="_blank">
+        <img src="[LINK_DA_IMAGEM_DO_PROJETO_2]" alt="Imagem do Projeto 2" width="100%">
+      </a>
+      <br />
       <p align="center">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&langs_count=7&theme=github_dark"/>
+        <a href="[LINK_DO_REPOSITORIO_2]" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
+        </a>
+        <a href="[LINK_DO_DEPLOY_2]" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Online-4c1?style=for-the-badge" alt="Ver Online">
+        </a>
+      </p>
+      <p>
+        Uma breve descrição do seu projeto, explicando o que ele faz e o seu propósito. Destaque as tecnologias principais utilizadas.
       </p>
     </td>
   </tr>
 </table>
 
-<!-- Divisória SVG Personalizada -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/main/img/line.svg" width="100%">
-</p>
+---
 
-### 🚀 **Meus Projetos em Destaque**
-<p align="center">
-  Abaixo estão alguns dos projetos dos quais mais me orgulho.
-</p>
-<p align="center">
-  <!-- 
-    GitHub Readme Stats - PIN de Repositório
-    Troque os links para os seus próprios repositórios
-  -->
-  <a href="https://github.com/[SEU_USUARIO]/[NOME_DO_REPO_1]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[SEU_USUARIO]&repo=[NOME_DO_REPO_1]&theme=github_dark" />
-  </a>
-  <a href="https://github.com/[SEU_USUARIO]/[NOME_DO_REPO_2]">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[SEU_USUARIO]&repo=[NOME_DO_REPO_2]&theme=github_dark" />
-  </a>
-</p>
-
-<!-- Divisória SVG Personalizada -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/main/img/line.svg" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[SEU_USUARIO]&label=VISITANTES&color=8A2BE2&style=flat-square" alt="Contador de Visitas" />
-</p>
+<div align="center">
+  <p>
+    <em>Feito com ❤️ e muito código.</em>
+  </p>
+</div>
