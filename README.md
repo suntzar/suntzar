@@ -1,56 +1,81 @@
 <!-- 
-  BEM-VINDO AO CAOS! 
-  Este é um README de perfil do GitHub para testar os limites do Markdown, HTML e CSS.
-  Sinta-se à vontade para roubar, modificar e quebrar o que quiser.
-  Lembre-se de substituir os placeholders como [SEU NOME] e [SEU_USUARIO_GITHUB].
+  Olá! Este é um template limpo e estiloso para o seu perfil do GitHub.
+  Fique à vontade para adaptar e personalizar.
+  Lembre-se de substituir os placeholders como [SEU_NOME] e [SEU_USUARIO].
 -->
 
 <div align="center">
 
-  <!-- GIF Animado como Banner -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB1ajU4ZzRkaW5taWJjZDVzOWEyNjA2NXRtbWR2enBqYmVvNnpvbiZlcD12aV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btNa0RUYa5E7iiQ/giphy.gif" width="300"/>
+  <!-- Você pode criar um banner personalizado em sites como o Canva e colocar o link aqui -->
+  <img src="https://i.imgur.com/VgVR3Rk.png" alt="Banner do Perfil com um gradiente e o logo do GitHub"/>
 
-  <h1>Olá, Mundo! Eu sou o <a href="https://github.com/[SEU_USUARIO_GITHUB]">[SEU NOME]</a>! 👋</h1>
+  <h1>
+    Olá, eu sou o [SEU NOME]! 👋
+  </h1>
 
   <p>
-    <b>Bem-vindo ao meu laboratório de insanidades em Markdown.</b> 
-    <br>
-    <i>Este perfil é um playground para explorar <s>e abusar dos</s> limites do que o GitHub renderiza.</i>
+    Desenvolvedor de Software | Apaixonado por Tecnologia e Soluções Criativas
   </p>
 
-  <!-- Badges/Shields -->
+  <!-- Badges de Contato/Redes Sociais -->
   <p>
-    <img alt="Meu Nível de Café" src="https://img.shields.io/badge/Nível%20de%20Café-EXTREMO-red?style=for-the-badge&logo=coffee">
-    <img alt="Bugs Criados" src="https://img.shields.io/badge/Bugs%20Criados-999%2B-blue?style=for-the-badge&logo=bugsnag">
-    <img alt="Sanidade" src="https://img.shields.io/badge/Sanidade-Carregando...-lightgrey?style=for-the-badge&logo=ghost">
+    <a href="https://www.linkedin.com/in/[SEU_LINKEDIN]/" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:[SEU_EMAIL@exemplo.com]">
+      <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+     <a href="https://[SEU_SITE_OU_PORTFOLIO].com/" target="_blank">
+      <img alt="Portfólio" src="https://img.shields.io/badge/Meu%20Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    </a>
   </p>
 </div>
 
 ---
 
+## 👨‍💻 Sobre Mim
+
+<p>
+  Sou um desenvolvedor de software com experiência em [Sua Área Principal, ex: desenvolvimento web, mobile, data science]. Tenho um grande interesse em criar aplicações eficientes, escaláveis e com uma ótima experiência de usuário.
+</p>
+
+- 🔭 Atualmente estou trabalhando em **[Nome do Projeto ou Tecnologia]**.
+- 🌱 Estou sempre aprendendo sobre **[Tópico de Interesse, ex: Arquitetura de Microserviços, React Native]**.
+- 👯 Procuro colaborar em **projetos open source** que envolvam [Sua Tecnologia Favorita].
+- 💬 Me chame para falar sobre **tecnologia, games, música ou um bom café!**
+
+<br>
+
+## ✨ Tecnologias e Ferramentas
+
 <details>
-  <summary><strong>🧰 Minhas Ferramentas e Tecnologias Favoritas (Clique para ver)</strong></summary>
+  <summary>Clique para ver a lista de tecnologias que eu uso</summary>
   <br>
-  
   <table width="100%">
     <tr>
-      <td align="center" width="200">
+      <td align="center" width="180">
         <p><b>Linguagens</b></p>
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+        <img style="margin: 5px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       </td>
-      <td align="center" width="200">
+      <td align="center" width="180">
         <p><b>Frontend</b></p>
-        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-        <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
-        <a href="https://www.w3.org/TR/CSS/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+        <img style="margin: 5px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
       </td>
-      <td align="center" width="200">
-        <p><b>Backend & DB</b></p>
-        <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+      <td align="center" width="180">
+        <p><b>Backend</b></p>
+        <img style="margin: 5px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      </td>
+      <td align="center" width="180">
+        <p><b>Ferramentas</b></p>
+        <img style="margin: 5px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+        <img style="margin: 5px" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
       </td>
     </tr>
   </table>
@@ -58,131 +83,74 @@
 
 <br>
 
-## 📊 Minhas Estatísticas (Totalmente Confiáveis)
+## 📊 Minhas Estatísticas no GitHub
 
 <!-- 
-  Os links abaixo usam o projeto GitHub Readme Stats. 
-  Troque 'YOUR_GITHUB_USERNAME' pelo seu usuário!
-  Adicione o parâmetro &theme= e escolha um tema: 
+  Troque '[SEU_USUARIO]' pelo seu nome de usuário do GitHub.
+  Para os temas, você pode escolher entre: 
   dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_GITHUB]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_GITHUB]&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
----
-
-## 💥 Zona de Testes e Abusos de Estilo 💥
-
-Esta é a parte onde a mágica (e a bagunça) realmente acontece.
-
-> "A simplicidade é o último grau de sofisticação." - Leonardo da Vinci
-> > _"Eu discordo." - Eu, fazendo este README_
-
-### Tabela Super Complexa e Inútil
-
-| **Recurso Abusado** | **Exemplo Visual** | **Descrição em Lista** | **Código de Exemplo** |
-| :--- | :---: | :--- | :---: |
-| **HTML & Imagens** | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50"> | <ul><li>Imagens com `width` e `height`</li><li>Texto com <b>negrito</b> e <i>itálico</i></li><li>Links: <a href="https://google.com">Google</a></li></ul> | `<img src="..." width="50">` |
-| **Texto Formatado** | H<sub>2</sub>O & 2<sup>10</sup> | <ol><li>Subscrito para fórmulas</li><li>Sobrescrito para potências</li><li>Texto riscado: ~~isso não existe~~</li></ol> | `H<sub>2</sub>O & 2<sup>10</sup>` |
-| **Listas de Tarefas** | - [x] Criar README caótico<br>- [ ] Entender o que eu fiz<br>- [x] Tomar café | Checklist do GFM. <br> Útil para... uh... coisas. | `- [x] Item Concluído` |
-| **Teclas de Atalho** | Pressione <kbd>Ctrl</kbd> + <kbd>C</kbd> | Usando a tag `<kbd>` para simular teclas. | `<kbd>Ctrl</kbd>` |
-
 <br>
 
-### 🤯 SVG Animado com CSS Interno 🤯
+## 🚀 Projetos em Destaque
 
-  <!-- 
-    Isso é um SVG. O CSS está DENTRO do SVG. 
-    O GitHub permite isso, então podemos ter gradientes animados, texto pulsante, etc.
-    É uma gambiarra? Sim. É incrível? Com certeza.
-  -->
-  <svg width="450" height="100" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .background {
-        fill: url(#grad);
-        animation: gradient-animation 10s ease infinite;
-      }
-      .text {
-        font-family: 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif;
-        font-size: 28px;
-        fill: white;
-        text-anchor: middle;
-        dominant-baseline: middle;
-        font-weight: bold;
-        animation: pulse-animation 2s ease-in-out infinite;
-        text-shadow: 2px 2px 4px #00000080;
-      }
-      @keyframes gradient-animation {
-        0% { stop-color: #ff8a00; }
-        25% { stop-color: #e52e71; }
-        50% { stop-color: #6a0dad; }
-        75% { stop-color: #007cf0; }
-        100% { stop-color: #ff8a00; }
-      }
-      @keyframes pulse-animation {
-        0% { transform: scale(1); opacity: 1; }
-        50% { transform: scale(1.05); opacity: 0.8; }
-        100% { transform: scale(1); opacity: 1; }
-      }
-    </style>
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#ff8a00;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#e52e71;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect x="0" y="0" width="100%" height="100%" rx="15" class="background" />
-    <text x="50%" y="50%" class="text">
-      ✨ CSS + SVG = MÁGICA ✨
-    </text>
-  </svg>
-
-
-<br>
-
-<details>
-  <summary>📜 Mais uma seção escondida com listas e código 📜</summary>
-  
-  ### Lista de Definições (dl, dt, dd)
-  <dl>
-    <dt>Markdown</dt>
-    <dd>Uma linguagem de marcação leve com sintaxe de formatação de texto simples.</dd>
-    <dt>HTML no Markdown</dt>
-    <dd>A arte de colocar HTML onde ele não deveria estar para obter superpoderes de estilização.</dd>
-  </dl>
-  
-  ### Bloco de Código com Syntax Highlighting
-  
-  ```javascript
-  // Isso é apenas um código aleatório para mostrar o highlighting
-  function chaoticGreeting(name) {
-    const messages = [
-      `Olá, ${name}! Bem-vindo ao abismo.`,
-      `Fuja enquanto pode, ${name}!`,
-      `${name}, você encontrou o easter egg!`
-    ];
-    return messages[Math.floor(Math.random() * messages.length)];
-  }
-
-  console.log(chaoticGreeting("Visitante"));
-  ```
-
-  > **Nota Importante:** Nem todos os clientes Markdown renderizam isso da mesma forma. O site do GitHub é o melhor lugar para ver o efeito completo.
-</details>
+<!-- 
+  Nesta seção, você pode adicionar links para seus melhores projetos.
+  Use o "Pin" do próprio GitHub para fixar repositórios no topo do seu perfil,
+  ou crie cards personalizados aqui. Abaixo um exemplo simples:
+-->
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Projeto 1: Nome Incrível</h3>
+      <br />
+      <a href="[LINK_DO_SEU_PROJETO_1]" target="_blank">
+        <img src="[LINK_DA_IMAGEM_DO_PROJETO_1]" alt="Imagem do Projeto 1" width="100%">
+      </a>
+      <br />
+      <p align="center">
+        <a href="[LINK_DO_REPOSITORIO_1]" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
+        </a>
+        <a href="[LINK_DO_DEPLOY_1]" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Online-4c1?style=for-the-badge" alt="Ver Online">
+        </a>
+      </p>
+      <p>
+        Uma breve descrição do seu projeto, explicando o que ele faz e o seu propósito. Destaque as tecnologias principais utilizadas.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Projeto 2: Outro Nome Legal</h3>
+      <br />
+      <a href="[LINK_DO_SEU_PROJETO_2]" target="_blank">
+        <img src="[LINK_DA_IMAGEM_DO_PROJETO_2]" alt="Imagem do Projeto 2" width="100%">
+      </a>
+      <br />
+      <p align="center">
+        <a href="[LINK_DO_REPOSITORIO_2]" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
+        </a>
+        <a href="[LINK_DO_DEPLOY_2]" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Online-4c1?style=for-the-badge" alt="Ver Online">
+        </a>
+      </p>
+      <p>
+        Uma breve descrição do seu projeto, explicando o que ele faz e o seu propósito. Destaque as tecnologias principais utilizadas.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
-  <h3>
-    <a href="https://www.linkedin.com/in/[SEU_LINKEDIN]/" target="_blank">🔗 Conecte-se comigo no LinkedIn</a>
-    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="mailto:[SEU_EMAIL@exemplo.com]">📫 Me mande um e-mail</a>
-  </h3>
-  <br>
-  <p><em>Feito com ☕, 🎶 e uma dose saudável de 🤪</em></p>
-  
-  <!-- Um contador de visitas, por que não? -->
-  <img src="https://komarev.com/ghpvc/?username=[SEU_USUARIO_GITHUB]&label=VISITANTES_DO_PERFIL&color=blueviolet&style=flat-square" alt="Contador de Visitas" />
+  <p>
+    <em>Feito com ❤️ e muito código.</em>
+  </p>
 </div>
