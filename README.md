@@ -32,7 +32,6 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      
       ### 👨‍💻 **Sobre Mim**
       <p>
         Sou um desenvolvedor de software focado em construir soluções robustas e elegantes. Com uma forte paixão por [Sua Área, ex: desenvolvimento web Full-Stack], busco constantemente transformar ideias complexas em realidade digital.
