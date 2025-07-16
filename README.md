@@ -1,23 +1,25 @@
 <!-- 
-  Versão 2.0: Agora com mais humor e menos cliques!
-  Um template estiloso, organizado e com a dose certa de personalidade.
-  Sinta-se à vontade para ajustar e fazer dele a sua cara.
+  Olá, Luis! Bem-vindo ao seu novo perfil.
+  Ele foi montado com base na sua história, celebrando sua jornada desde os jogos até a web.
+  Divirta-se!
 -->
 
 <div align="center">
 
-  <!-- Um banner limpo sempre causa uma boa primeira impressão. Crie o seu no Canva! -->
-  <img src="https://i.imgur.com/VgVR3Rk.png" alt="Banner do Perfil com um gradiente e o logo do GitHub"/>
+  <!-- O banner pixelado que você escolheu. Perfeito para a vibe! -->
+  <img src="https://i.pinimg.com/originals/fd/52/14/fd521441005da83e481974ad55ed8e06.gif" alt="Banner pixel art de uma cidade à noite"/>
 
   <h1>
-    Olá, Mundo! Eu sou o [SEU NOME]! 👋
+    Olá, Mundo! Eu sou o Luis Fernando! 👋
   </h1>
 
   <p>
-    <b>Um artesão de software que transforma café em código e bugs em... "features inesperadas".</b>
+    <b>Desenvolvedor que começou nos jogos e acidentalmente descobriu a web.</b>
+    <br>
+    <i>Atualmente, transformo ideias (e alguns arquivos .html aleatórios) em realidade.</i>
   </p>
   
-  <!-- Badges de Contato/Redes Sociais -->
+  <!-- Suas redes sociais, se quiser adicionar -->
   <p>
     <a href="https://www.linkedin.com/in/[SEU_LINKEDIN]/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -25,123 +27,92 @@
     <a href="mailto:[SEU_EMAIL@exemplo.com]">
       <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-     <a href="https://[SEU_SITE_OU_PORTFOLIO].com/" target="_blank">
-      <img alt="Portfólio" src="https://img.shields.io/badge/Meu%20Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white">
-    </a>
   </p>
 </div>
 
 ---
 
-## 🤓 Um Pouco Sobre Mim (A Versão Oficial)
+## 🚀 Minha Jornada até Aqui
 
-<p>
-  Sou um desenvolvedor apaixonado por criar soluções que sejam úteis e agradáveis de usar. Adoro um bom desafio, seja ele otimizar uma query complexa ou decidir qual o nome perfeito para uma variável.
-</p>
+Tudo começou com a programação de jogos! Minha aventura no mundo do código se iniciou com o **TIC-80** e o **LÖVE 2D**, onde **Lua** se tornou minha primeira linguagem de programação e ganhou um lugar especial no meu coração. ❤️
 
-- 🔭 Atualmente, estou mergulhado em **[Nome do Projeto ou Tecnologia]** e tentando não criar mais bugs do que soluções.
-- 🌱 No momento, estou aprendendo sobre **[Tópico de Interesse]** e a arte da paciência com builds que demoram.
-- 👯 Procuro colaborar em projetos que resolvam problemas reais (ou que simplesmente pareçam muito legais).
-- 💬 Me chame para falar sobre **código, design, ou por que o modo escuro é objetivamente superior.**
+Um dia, a curiosidade me levou a abrir um arquivo `index.html` que baixei... e o resto é história. Sem querer, me apaixonei também pelo desenvolvimento web e agora estou explorando este novo universo.
+
+- 🌱 Atualmente, estou focando em aprimorar minhas habilidades em **HTML, CSS e JavaScript**.
+- 🛠️ Aventurando-me no backend com um pouco de **Node.js**.
+- 🐍 E por saber Lua e JS, acabei aprendendo **Python** por "osmose" para coisas básicas. A sintaxe parecida foi um belo acidente!
+- 💬 Me chame para falar sobre **game dev, pixel art, ou como se tornar um programador web por acidente!**
 
 <br>
 
-## 🔧 Minha Estante de Ferramentas (Tech Stack)
+## 💻 Tecnologias e Ferramentas
 
-<p>Estas são algumas das tecnologias que eu uso no meu dia a dia e com as quais adoro construir coisas:</p>
+<p>Este é o arsenal que venho montando na minha jornada:</p>
 
 <table width="100%">
   <tr>
-    <td align="center" width="180">
-      <p><b>Linguagens</b></p>
-      <img style="margin: 5px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img style="margin: 5px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img style="margin: 5px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <td align="center">
+      <p><b>Primeiro Amor ❤️</b></p>
+      <img style="margin: 5px" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+      <img style="margin: 5px" src="https://img.shields.io/badge/TIC--80-A3A3A3?style=for-the-badge" alt="TIC-80" />
+      <img style="margin: 5px" src="https://img.shields.io/badge/L%C3%96VE-2D-ff4775?style=for-the-badge" alt="LÖVE 2D" />
     </td>
-    <td align="center" width="180">
-      <p><b>Frontend</b></p>
-      <img style="margin: 5px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <td align="center">
+      <p><b>Mundo Web 🌐</b></p>
       <img style="margin: 5px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <img style="margin: 5px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-    <td align="center" width="180">
-      <p><b>Backend & Infra</b></p>
+      <img style="margin: 5px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       <img style="margin: 5px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img style="margin: 5px" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img style="margin: 5px" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     </td>
-    <td align="center" width="180">
-      <p><b>Ferramentas</b></p>
-      <img style="margin: 5px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img style="margin: 5px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-      <img style="margin: 5px" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+    <td align="center">
+      <p><b>Outras Linguagens</b></p>
+      <img style="margin: 5px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </td>
   </tr>
 </table>
 
 <br>
 
-## 📊 Minhas Estatísticas (Porque números são legais)
+## 📊 Minhas Estatísticas de Iniciante
 
 <p align="center">
-  <i>Um resumo do meu vício em <code>git push</code>, gerado automaticamente e sem nenhuma garantia de precisão.</i>
+  <i>Minha atividade no GitHub, provando que <code>git commit -m "arrumando bug que eu mesmo criei"</code> é uma mensagem válida.</i>
 </p>
 
-<!-- 
-  Troque '[SEU_USUARIO]' pelo seu nome de usuário do GitHub.
-  Para os temas, você pode escolher entre: 
-  dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
--->
+<!-- O tema "dracula" combina muito com o banner que você escolheu! -->
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=suntzar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suntzar&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 <br>
 
-## 🚀 Meus Projetos de Estimação
+## 🌱 Meus Primeiros Passos... (Projetos)
+<p>Aqui estão alguns dos projetos que estou construindo enquanto aprendo. Sinta-se à vontade para explorar!</p>
 
-<!-- 
-  Abaixo um modelo para exibir seus projetos. 
-  Replique a estrutura da coluna (<td>) para adicionar mais projetos lado a lado.
--->
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Projeto 1: Nome Incrível</h3>
-      <br />
-      <a href="[LINK_DO_SEU_PROJETO_1]" target="_blank">
-        <!-- Use uma imagem de 1280x720 para melhor proporção -->
-        <img src="[LINK_DA_IMAGEM_DO_PROJETO_1]" alt="Imagem do Projeto 1" width="100%">
-      </a>
-      <br />
+      <h3 align="center">Meu Primeiro Jogo</h3>
       <p>
-        Uma breve descrição do seu projeto, explicando o que ele faz e o seu propósito. Destaque as tecnologias principais utilizadas.
+        Um pequeno jogo desenvolvido com LÖVE 2D e Lua, onde explorei conceitos de lógica de jogo e manipulação de sprites. Foi o projeto que deu início a tudo!
       </p>
       <p align="center">
-        <a href="[LINK_DO_REPOSITORIO_1]" target="_blank">
+        <a href="[LINK_DO_REPOSITORIO_DO_JOGO]" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
-        </a>
-        <a href="[LINK_DO_DEPLOY_1]" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Online-4c1?style=for-the-badge" alt="Ver Online">
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Projeto 2: Outro Nome Legal</h3>
-      <br />
-      <a href="[LINK_DO_SEU_PROJETO_2]" target="_blank">
-        <img src="[LINK_DA_IMAGEM_DO_PROJETO_2]" alt="Imagem do Projeto 2" width="100%">
-      </a>
-      <br />
+      <h3 align="center">Site Portfólio Simples</h3>
       <p>
-        Uma breve descrição do seu projeto, explicando o que ele faz e o seu propósito. Destaque as tecnologias principais utilizadas.
+        Meu primeiro projeto web de verdade! Um portfólio para praticar HTML semântico e CSS, colocando em prática os fundamentos do desenvolvimento front-end.
       </p>
       <p align="center">
-        <a href="[LINK_DO_REPOSITORIO_2]" target="_blank">
+        <a href="[LINK_DO_REPOSITORIO_DO_SITE]" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
         </a>
-        <a href="[LINK_DO_DEPLOY_2]" target="_blank">
+        <a href="[LINK_DO_SITE_ONLINE]" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Online-4c1?style=for-the-badge" alt="Ver Online">
         </a>
       </p>
@@ -153,6 +124,6 @@
 
 <div align="center">
   <p>
-    <em>Feito com ☕, ⌨️ e uma pitada de Stack Overflow.</em>
+    <em>Feito com 💖 por Lua, ☕ e uma quantidade generosa de <code>console.log()</code>.</em>
   </p>
 </div>
