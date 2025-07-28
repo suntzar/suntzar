@@ -1,42 +1,42 @@
 <!-- 
   Perfil de Luís Fernando (suntzar)
-  Versão 5.1: Profissional Estruturado
+  Versão 5.0: Foco em Habilidades, mantendo o estilo.
 -->
 
-<div align="center">
-  <!-- Opcional: Você pode adicionar um banner de tecnologia ou uma imagem de cabeçalho aqui -->
+<div align="center" width="100%">
+  <a href="">
+    <!-- Sugestão: você pode atualizar o alt text para algo como "Banner de perfil" -->
+    <img src="assets/tiles/tile-1.png" alt="Animação de texto com a minha história"/>
+  </a>
 </div>
 
-<h1 align="center">Luís Fernando</h1>
-<h3 align="center">Desenvolvedor Web</h3>
+<br>
+
+<h1 align="center">Hello World! I'm Luís</h1>
+
+<p align="center">
+  Desenvolvedor focado em criar soluções interativas para a web.
+</p>
+
+<div align="center">
+
+- 🔭 Atualmente consolidando conhecimentos em **HTML, CSS e JavaScript**.
+- 🌱 Explorando o desenvolvimento backend com **Node.js**.
+- 💬 Aberto a conversas sobre **código, pixel art e tecnologia**.
+
+</div>
 
 <br>
 
-## Sobre Mim
-
-Desenvolvedor com paixão por criar soluções interativas e funcionais. Minha experiência inicial com a lógica de programação em **Lua** para criação de jogos despertou meu interesse pelo desenvolvimento, que hoje aplico na construção de projetos para a web.
-
-- 🔭 **Foco atual:** Aprimoramento contínuo em **HTML, CSS e JavaScript** para criar interfaces ricas e responsivas.
-- 🌱 **Aprendendo:** Expandindo meus conhecimentos para o backend com **Node.js** para construir aplicações full-stack.
-- 💡 **Interesses:** Pixel art, design de interfaces e a busca por código limpo e eficiente.
-
-<br>
-
-## Tecnologias
-
-Estas são as tecnologias com as quais tenho trabalhado:
+<h2 align="center">Tecnologias e Ferramentas</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,lua,py,git,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=lua,js,py,html,css,nodejs,git,vscode&perline=8" />
   </a>
 </p>
 
-<br>
-
-## Contato
-
-Sinta-se à vontade para se conectar ou me enviar uma mensagem!
+<h2 align="center">Conecte-se comigo</h2>
 
 <p align="center">
   <!-- Adicione aqui os links para suas redes sociais -->
