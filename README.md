@@ -11,7 +11,7 @@
 
 <br>
 
-<h1 align="center">Hello World!<br>I'm Luis and it's me:</h1>
+<h1 align="center">Hello World! I'm Luís</h1>
 
 ---
 
