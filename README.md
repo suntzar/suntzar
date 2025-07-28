@@ -13,7 +13,8 @@
 
 <h1 align="center">Hello World! I'm Luís</h1>
 
----
+<br>
+<br>
 
 ## Minha Jornada (A História Completa)
 
@@ -27,7 +28,7 @@
 
 <br>
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <p align="center">
   Estas são as ferramentas que eu tenho explorado e utilizado na minha jornada até agora:
