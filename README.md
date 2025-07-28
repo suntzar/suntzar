@@ -9,6 +9,8 @@
   </a>
 </div>
 
+---
+
 ## 🤓 Minha Jornada (A História Completa)
 
 <p>
