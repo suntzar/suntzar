@@ -10,10 +10,10 @@
 </div>
 
 <br>
+<br>
 
 <h1 align="center">Hello World! I'm Luís</h1>
 
-<br>
 <br>
 
 ## Minha Jornada (A História Completa)
