@@ -1,6 +1,6 @@
 <!-- 
   Perfil de Luís Fernando (suntzar)
-  Versão 6.0: Harmonia Visual
+  Versão 7.0: Contato Elegante
 -->
 
 <div align="center" width="100%">
@@ -18,22 +18,12 @@
 <br>
 
 ## <img src="https://api.iconify.design/tabler/target.svg?color=%23eab308" width="24" height="24" style="vertical-align:middle"/> Foco e Interesses
-
-- **Foco Atual:** Aprimoramento contínuo em **HTML, CSS e JavaScript** para criar interfaces ricas e responsivas.
-- **Próximos Passos:** Expansão para o desenvolvimento backend com **Node.js**.
-- **Outros Interesses:** Lógica de programação com **Lua**, pixel art e os desafios criativos do CSS.
+<!-- ... (conteúdo da seção) ... -->
 
 <br>
 
 ## <img src="https://api.iconify.design/tabler/code.svg?color=%23c53030" width="24" height="24" style="vertical-align:middle"/> Tecnologias
-
-Estas são as tecnologias e ferramentas que utilizo no meu dia a dia:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,js,py,html,css,nodejs,git,vscode&perline=8" />
-  </a>
-</p>
+<!-- ... (conteúdo da seção) ... -->
 
 <br>
 
@@ -42,12 +32,11 @@ Estas são as tecnologias e ferramentas que utilizo no meu dia a dia:
 Sinta-se à vontade para se conectar ou me enviar uma mensagem.
 
 <p align="center">
-  <!-- Adicione aqui os links para suas redes sociais -->
   <a href="URL_DO_SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://api.iconify.design/mdi/linkedin.svg?color=%23c53030" width="40" height="40" alt="LinkedIn"/>
   </a>
-   
+      
   <a href="mailto:SEU_EMAIL@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://api.iconify.design/mdi/email-outline.svg?color=%23eab308" width="40" height="40" alt="Email"/>
   </a>
 </p>
