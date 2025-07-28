@@ -1,6 +1,6 @@
 <!-- 
   Perfil de Luís Fernando (suntzar)
-  Versão 7.0: Animação de Título
+  Versão 7.1: Animação de Título CORRIGIDA
 -->
 
 <div align="center" width="100%">
@@ -14,7 +14,7 @@
 <!-- TÍTULO ANIMADO -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=30&color=EAB308¢er=true&vCenter=true&width=500&height=50&lines=Hello+World!+I'm+Luís+Fernando;Desenvolvedor+Web;Apaixonado+por+pixel+art+%26+código." alt="Animação de texto: Hello World! I'm Luís Fernando; Desenvolvedor Web; Apaixonado por pixel art & código.">
+    <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=30&color=EAB308¢er=true&vCenter=true&width=500&height=50&lines=Hello+World!+I%27m+Luís+Fernando;Desenvolvedor+Web;Apaixonado+por+pixel+art+%26+código." alt="Animação de texto: Hello World! I'm Luís Fernando; Desenvolvedor Web; Apaixonado por pixel art & código.">
   </a>
 </div>
 <!-- FIM DO TÍTULO ANIMADO -->
