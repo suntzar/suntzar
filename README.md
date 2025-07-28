@@ -1,12 +1,11 @@
 <!-- 
   Perfil de Luís Fernando (suntzar)
-  Versão 5.0: Foco em Habilidades, mantendo o estilo.
+  Versão 5.1: Estrutura profissional.
 -->
 
 <div align="center" width="100%">
   <a href="">
-    <!-- Sugestão: você pode atualizar o alt text para algo como "Banner de perfil" -->
-    <img src="assets/tiles/tile-1.png" alt="Animação de texto com a minha história"/>
+    <img src="assets/tiles/tile-1.png" alt="Banner do perfil de Luís Fernando"/>
   </a>
 </div>
 
@@ -14,21 +13,21 @@
 
 <h1 align="center">Hello World! I'm Luís</h1>
 
-<p align="center">
-  Desenvolvedor focado em criar soluções interativas para a web.
-</p>
-
-<div align="center">
-
-- 🔭 Atualmente consolidando conhecimentos em **HTML, CSS e JavaScript**.
-- 🌱 Explorando o desenvolvimento backend com **Node.js**.
-- 💬 Aberto a conversas sobre **código, pixel art e tecnologia**.
-
-</div>
+<h3 align="center">Desenvolvedor Web</h3>
 
 <br>
 
-<h2 align="center">Tecnologias e Ferramentas</h2>
+## 🎯 Foco e Interesses
+
+- **Foco Atual:** Aprimoramento contínuo em **HTML, CSS e JavaScript** para criar interfaces ricas e responsivas.
+- **Próximos Passos:** Expansão para o desenvolvimento backend com **Node.js**.
+- **Outros Interesses:** Lógica de programação com **Lua**, pixel art e os desafios criativos do CSS.
+
+<br>
+
+## 💻 Tecnologias
+
+Estas são as tecnologias e ferramentas que utilizo no meu dia a dia:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,7 +35,11 @@
   </a>
 </p>
 
-<h2 align="center">Conecte-se comigo</h2>
+<br>
+
+## 📫 Contato
+
+Sinta-se à vontade para se conectar ou me enviar uma mensagem.
 
 <p align="center">
   <!-- Adicione aqui os links para suas redes sociais -->
