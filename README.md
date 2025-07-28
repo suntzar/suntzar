@@ -1,6 +1,6 @@
 <!-- 
   Perfil de Luís Fernando (suntzar)
-  Versão 5.2: Profissional com Ícones
+  Versão 5.4: Ícones com Cor de Marca
 -->
 
 <div align="center" width="100%">
@@ -17,7 +17,7 @@
 
 <br>
 
-## <img src="https://api.iconify.design/tabler/target.svg?color=%23777" width="24" height="24" style="vertical-align:middle"/> Foco e Interesses
+## <img src="https://api.iconify.design/tabler/target.svg?color=%232563eb" width="24" height="24" style="vertical-align:middle"/> Foco e Interesses
 
 - **Foco Atual:** Aprimoramento contínuo em **HTML, CSS e JavaScript** para criar interfaces ricas e responsivas.
 - **Próximos Passos:** Expansão para o desenvolvimento backend com **Node.js**.
@@ -25,7 +25,7 @@
 
 <br>
 
-## <img src="https://api.iconify.design/tabler/code.svg?color=%23777" width="24" height="24" style="vertical-align:middle"/> Tecnologias
+## <img src="https://api.iconify.design/tabler/code.svg?color=%232563eb" width="24" height="24" style="vertical-align:middle"/> Tecnologias
 
 Estas são as tecnologias e ferramentas que utilizo no meu dia a dia:
 
@@ -37,7 +37,7 @@ Estas são as tecnologias e ferramentas que utilizo no meu dia a dia:
 
 <br>
 
-## <img src="https://api.iconify.design/tabler/mail.svg?color=%23777" width="24" height="24" style="vertical-align:middle"/> Contato
+## <img src="https://api.iconify.design/tabler/mail.svg?color=%232563eb" width="24" height="24" style="vertical-align:middle"/> Contato
 
 Sinta-se à vontade para se conectar ou me enviar uma mensagem.
 
