@@ -12,7 +12,7 @@
 -->
 <div align="center" width="100%">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=73b1ea&size=28¢er=true&vCenter=true&width=900&lines=Olá!+Meu+nome+é+Luis+Fernando;Comecei+programando+jogos+em+Lua;...e+acidentalmente+virei+dev+web;Seja+bem-vindo(a)+ao+meu+cantinho!+✨" alt="Animação de texto com a minha história"/>
+    <img src="assets/tiles/tile-1.png" alt="Animação de texto com a minha história"/>
   </a>
 </div>
 
