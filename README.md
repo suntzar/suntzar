@@ -12,9 +12,7 @@
 <br>
 
 <!-- TÍTULO ANIMADO -->
-  [<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=30&color=EAB308¢er=true&vCenter=true&width=500&height=50&lines=Hello+World!+I%27m+Luís+Fernando;Desenvolvedor+Web;Apaixonado+por+pixel+art+%26+código." alt="Animação de texto: Hello World! I'm Luís Fernando; Desenvolvedor Web; Apaixonado por pixel art & código.">
-  </a>](https://readme-typing-svg.demolab.com/demo/?font=Jersey+10&size=30&color=EAB308&center=true&vCenter=true&lines=Hello+World!;I'm+Lu%C3%ADs+Fernando;Or+L7+-+Suntzar;Desenvolvedor+Web;Focado+e+Criativo)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&color=EAB308&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Lu%C3%ADs+Fernando;Or+L7+-+Suntzar;Desenvolvedor+Web;Focado+e+Criativo" alt="Typing SVG" /></a>
 <!-- FIM DO TÍTULO ANIMADO -->
 
 <br>
