@@ -12,7 +12,7 @@
 <br>
 
 <!-- TÍTULO ANIMADO -->
-<a href="https://git.io/typing-svg"><img aling="center" src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&color=EAB308&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Lu%C3%ADs+Fernando;Or+L7+-+Suntzar;Desenvolvedor+Web;Focado+e+Criativo" alt="Typing SVG" /></a>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&color=EAB308&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Lu%C3%ADs+Fernando;Or+L7+-+Suntzar;Desenvolvedor+Web;Focado+e+Criativo" alt="Typing SVG" /></a></center>
 <!-- FIM DO TÍTULO ANIMADO -->
 
 <br>
